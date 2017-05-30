@@ -1,5 +1,6 @@
    1 # despdom2.py - Calculadora de despesas domesticas - versao 2
    2 # COMENTARIO MODIFICADO
+   4 # Fetch commando
    3 print 'Balanco de despesas domesticas'
    4 ana = float(raw_input('Quanto gastou Ana? '))
    5 bia = float(raw_input('Quanto gastou Bia? '))
